@@ -41,7 +41,7 @@ The `app-ads.txt` file is located at the root of the domain, as required by Goog
 https://kzstudiomax.com/app-ads.txt
 ```
 
-This file authorizes all official AdMob publisher accounts used by KZ Studio Max applications.
+This file authorizes all official AdMob publisher accounts used by KZ Studio applications.
 
 ---
 
